@@ -1,1 +1,0 @@
-Hi, your shared mailbox is working again now. We fixed it by rebuilding Outlook’s profile, and access has been restored. Your emails are safe, and nothing was lost during this process. Please sign back into Outlook to continue. If anything still looks off, reply here and we’ll help right away.

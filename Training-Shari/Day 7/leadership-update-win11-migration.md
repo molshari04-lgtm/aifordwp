@@ -1,0 +1,3 @@
+The Windows 11 migration is settling well for most users. Sign-in and account lockout problems have stopped, OneDrive files and syncing are working normally, VPN connections are stable, and login speeds have returned to expected levels. Overall feedback describes a smoother and more reliable experience than during the first week.
+
+Some issues remain open. The Floor 3 printer problem has continued and is now being escalated for a lasting resolution, while a new issue with Excel crashing on large spreadsheets is disrupting finance work and needs urgent investigation. The support team is prioritising these problems, monitoring user feedback, and checking that previous fixes continue to hold.

@@ -2,25 +2,28 @@ Version: v 1.0
 Date: 07/08/2026
 Status: Draft
 
-Can’t Open Finance Shared Drives? Try This First
+# Cannot Open Finance Shared Drives?
 
-Your files are safe. This issue can happen when your computer starts with old network settings after an update or migration.
+Your files are safe. Nothing is deleted. This is usually a temporary access problem, and most people are back to normal after a few simple steps.
 
-Please try these safe steps:
+## Try These Steps
+1. Save your work.
+2. Sign out of your work account.
+3. Wait 2 minutes.
+4. Sign in again.
+5. Open your Finance shared drive and try again.
+6. If it still does not open, restart your laptop once.
+7. After restart, sign in and try the drive one more time.
 
-1. Save your work and restart your laptop.
-2. After restart, wait 2 minutes before signing in.
-3. Sign in and try opening the shared drive again.
-4. If it still does not open, sign out once and sign in again.
-5. If it still fails, stop retrying and contact the service desk.
+## If It Still Does Not Work
+Please contact the Service Desk and share these details:
+- Your full name
+- Your work login name
+- Your computer name (if you know it)
+- Which drive is not opening (for example S: or P:)
+- The exact message you see (or a screenshot)
+- The time the issue started
+- Your office location (or say you are working from home)
+- Whether anyone near you has the same problem
 
-What to include in your ticket:
-- Your name and work login name
-- Your device name (if known)
-- Which drive letters are failing (for example S: or P:)
-- Exact error message (or screenshot)
-- Time the problem started
-- Your office location/floor
-- Whether any teammate near you has the same issue
-
-Contact the service desk if shared drives are still unavailable after one restart and one sign-out/sign-in.
+Contact the Service Desk if the shared drive still does not open after one sign-out/sign-in and one restart.
